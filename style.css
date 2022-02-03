@@ -126,7 +126,7 @@ article .mainheader {
     line-height: 1em;
     width: 780px;
     max-width: 100%;
-    margin: 300px auto 300px;
+    margin: 100px auto 300px;
     min-width: 380px;
 }
 
@@ -192,6 +192,10 @@ img {
     z-index: 1;
     min-width: 400px;
     margin-left: 0px;
+}
+
+#summery {
+    margin-top: 500px;
 }
 
 footer {
